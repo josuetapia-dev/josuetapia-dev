@@ -223,29 +223,35 @@ Postman
 
 ---
 
-# Let's Connect
-
-<p>
-
-<a href="https://github.com/josuetapia-dev">
-GitHub
-</a>
-
-•
-
-<a href="https://linkedin.com/in/TU-LINKEDIN">
-LinkedIn
-</a>
-
-•
-
-<a href="https://TU-PORTAFOLIO.com">
-Portfolio
-</a>
-
-</p>
+---
 
 ---
+
+## 📬 Get in Touch
+
+<div align="center">
+
+I'm always open to discussing new ideas, collaborations, or opportunities.
+
+<br>
+
+<a href="https://github.com/josuetapia-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/TU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:TUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://tuportafolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 <div align="center">
 
