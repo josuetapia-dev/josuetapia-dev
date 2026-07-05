@@ -1,68 +1,254 @@
-# Hi, I'm Josué 👋 | Hola, soy Josué
+<div align="center">
 
-> Software Engineer · Mobile & Web App Developer · Building products that solve real problems
-> 
-> Ingeniero en Software · Desarrollador de Apps · Construyendo productos que resuelven problemas reales
+# Hi, I'm Josué 👋
 
----
+### Software Engineer
 
-## 🚀 About Me | Sobre mí
+Building modern Web & Mobile applications with AI.
 
-- 🎓 Software Engineering student (8th semester) · Veracruz, México
-- 📱 Building **EventPass** — an event management platform with QR access control
-- 🍎 Building **Kcal** — a minimalist AI-powered calorie tracker
-- 💡 Passionate about turning ideas into real, sellable products
-- 🤖 AI-assisted development with modern tools
+<p>
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
----
+  <a href="https://TU-PORTAFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-## 🛠️ Tech Stack
+  <a href="mailto:TUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</p>
+
+</div>
 
 ---
 
-## 📦 Projects | Proyectos
+# About Me
 
-### 🎫 EventPass *(In progress · En desarrollo)*
-> Event management platform with QR access control, real-time dashboards and exportable reports.
-> 
-> Plataforma de gestión de eventos con control de acceso por QR, dashboards en tiempo real y reportes exportables.
+I'm a Software Engineering student from **Veracruz, México** passionate about creating software that solves real-world problems.
 
-`Ionic` `React` `Firebase` `QR` `Real-time`
+I enjoy designing products from idea to deployment, combining **Web Development**, **Mobile Apps**, and **Artificial Intelligence**.
 
----
-
-### 🍎 Kcal *(Coming soon · Próximamente)*
-> Minimalist AI calorie tracker. Scan your food with the camera and get instant nutrition info.
-> 
-> Tracker de calorías minimalista con IA. Escanea tu comida con la cámara y obtén info nutricional al instante.
-
-`Ionic` `Gemini Vision API` `Open Food Facts` `Firebase`
+Currently focused on building applications that people can actually use.
 
 ---
 
-## 📊 GitHub Stats
+# Current Projects
 
-![Josué's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuetapia-dev&show_icons=true&theme=tokyonight&hide_border=true)
+## 🎫 EventPass
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josuetapia-dev&layout=compact&theme=tokyonight&hide_border=true)
+Event management platform with:
+
+- QR access control
+- Real-time dashboards
+- Attendance tracking
+- Exportable reports
+
+**Stack**
+
+```
+Ionic
+React
+Firebase
+TypeScript
+```
 
 ---
 
-## 📫 Contact | Contacto
+## 🍎 Kcal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-perez-tapia)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuetapia1112@gmail.com)
+Minimalist AI-powered calorie tracker.
+
+Features:
+
+- Food recognition
+- Nutrition analysis
+- Camera integration
+- AI assistance
+
+**Stack**
+
+```
+Ionic
+Firebase
+Gemini API
+OpenFoodFacts
+```
+
+---
+# Tech Stack
+
+<table align="center">
+
+<tr>
+<th colspan="7">
+
+Frontend Development
+
+</th>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55"><br>
+React
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55"><br>
+JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="55"><br>
+TypeScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55"><br>
+HTML5
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55"><br>
+CSS3
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="55"><br>
+Flutter
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vite" width="55"><br>
+Vite
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table align="center">
+
+<tr>
+<th colspan="4">
+
+Backend Development
+
+</th>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="55"><br>
+PHP
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=laravel" width="55"><br>
+Laravel
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"><br>
+Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55"><br>
+Python
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table align="center">
+
+<tr>
+<th colspan="5">
+
+Database & Tools
+
+</th>
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"><br>
+MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mariadb" width="55"><br>
+MariaDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"><br>
+GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="55"><br>
+Postman
+</td>
+
+</tr>
+
+</table>
+
+# 2026 Goals
+
+- Launch EventPass
+- Publish Kcal
+- Master Laravel
+- Learn Cloud Architecture
+- Contribute to Open Source
+- Land my first Software Engineer role
 
 ---
 
-*"You don't have to be great to start, but you have to start to build something great."*
+# Let's Connect
 
-*"No tienes que ser grande para empezar, pero sí tienes que empezar para construir algo grande."*
+<p>
+
+<a href="https://github.com/josuetapia-dev">
+GitHub
+</a>
+
+•
+
+<a href="https://linkedin.com/in/TU-LINKEDIN">
+LinkedIn
+</a>
+
+•
+
+<a href="https://TU-PORTAFOLIO.com">
+Portfolio
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Building software that solves real problems."*
+
+</div>
