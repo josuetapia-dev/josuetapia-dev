@@ -1,260 +1,63 @@
-<div align="center">
-
 # Hi, I'm Josué 👋
 
-### Software Engineer
+### Software Engineering Student · Backend & Cloud
 
-Building modern Web & Mobile applications with AI.
+Building web systems with **Laravel** and deploying them on **Linux** infrastructure. Currently focused on growing into **Cloud & DevOps**.
 
-<p>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://TU-PORTAFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:TUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-</p>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-perez-tapia)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuetapia1112@gmail.com)
 
 ---
 
-# About Me
+## About Me
 
-I'm a Software Engineering student from **Veracruz, México** passionate about creating software that solves real-world problems.
-
-I enjoy designing products from idea to deployment, combining **Web Development**, **Mobile Apps**, and **Artificial Intelligence**.
-
-Currently focused on building applications that people can actually use.
+Final-term Software Development Engineering student at UTGZ (Veracruz, México).
+I enjoy taking systems from code to production: building the backend, setting up the servers and making it run.
 
 ---
 
-# Current Projects
+## Featured Projects
 
-## 🎫 EventPass
+### 🏛️ SGRP — Professional Residency Management System
+Web system to digitize the registration and tracking of university professional residencies.
+- Deployed on **4 Ubuntu Server VMs** configured via command line: 2 app servers, 1 MySQL database server and 1 load balancer
+- **Nginx** as web server and to expose the system to the internet
+- Unit tests with **PHPUnit** · Role: **Scrum Master** & full stack developer
 
-Event management platform with:
+`Laravel` `PHP` `MySQL` `Nginx` `Ubuntu Server`
 
-- QR access control
-- Real-time dashboards
-- Attendance tracking
-- Exportable reports
+### 📱 Francofonía — Guest Registration App
+Offline-capable mobile app to register attendees at a university event using app-generated QR codes. Used to register ~150 guests.
 
-**Stack**
+`Ionic` `MySQL`
 
-```
-Ionic
-React
-Firebase
-TypeScript
-```
+### 🎮 Runestone — 2D Metroidvania
+Game built in two weeks by a team of 3, with AI-assisted tools. **3rd place** at UTGZ's Programmer's Day contest.
 
----
+`Unity` `C#`
 
-## 🍎 Kcal
+### ⏸️ EventPass — *paused*
+Personal SaaS idea for event management with QR access control, based on what I learned from Francofonía.
 
-Minimalist AI-powered calorie tracker.
-
-Features:
-
-- Food recognition
-- Nutrition analysis
-- Camera integration
-- AI assistance
-
-**Stack**
-
-```
-Ionic
-Firebase
-Gemini API
-OpenFoodFacts
-```
-
----
-# Tech Stack
-
-<table align="center">
-
-<tr>
-<th colspan="7">
-
-Frontend Development
-
-</th>
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="55"><br>
-React
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="55"><br>
-JavaScript
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="55"><br>
-TypeScript
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="55"><br>
-HTML5
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="55"><br>
-CSS3
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="55"><br>
-Flutter
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vite" width="55"><br>
-Vite
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<table align="center">
-
-<tr>
-<th colspan="4">
-
-Backend Development
-
-</th>
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="55"><br>
-PHP
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=laravel" width="55"><br>
-Laravel
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"><br>
-Node.js
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="55"><br>
-Python
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<table align="center">
-
-<tr>
-<th colspan="5">
-
-Database & Tools
-
-</th>
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"><br>
-MySQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mariadb" width="55"><br>
-MariaDB
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="55"><br>
-Git
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="55"><br>
-GitHub
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="55"><br>
-Postman
-</td>
-
-</tr>
-
-</table>
-
-# 2026 Goals
-
-- Launch EventPass
-- Publish Kcal
-- Master Laravel
-- Learn Cloud Architecture
-- Contribute to Open Source
-- Land my first Software Engineer role
+`Ionic` `React` `Firebase` `TypeScript`
 
 ---
 
----
+## Tech Stack
+
+**Backend:** PHP · Laravel · Python (data analysis)
+**Frontend & Mobile:** JavaScript · TypeScript · React · Angular · Ionic · HTML/CSS
+**Databases:** MySQL · MariaDB · MongoDB · Firebase
+**Infrastructure:** Linux (Ubuntu Server) · Nginx · Virtual Machines · Load Balancing
+**Tools:** Git · GitHub · Postman · PHPUnit · Jira
+**Currently learning:** Docker
 
 ---
 
-## 📬 Get in Touch
+## 2026–2027 Goals
 
-<div align="center">
-
-I'm always open to discussing new ideas, collaborations, or opportunities.
-
-<br>
-
-<a href="https://github.com/josuetapia-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/TU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:TUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://tuportafolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-<div align="center">
-
-*"Building software that solves real problems."*
-
-</div>
+- 🐳 Containerize my projects with Docker
+- ⚙️ Build CI/CD pipelines with GitHub Actions
+- ☁️ Deploy a project on the cloud (Google Cloud)
+- 🗣️ Reach B1 English
+- 💼 Land my first role on the path to Cloud / DevOps Engineer
