@@ -11,12 +11,13 @@ Actualmente aprendiendo Docker en el camino a Cloud / DevOps.
 
 ### Proyectos
 
-| | |
+| Proyecto | Descripción |
 |---|---|
 | **SGRP** <br><sub>Laravel · MySQL · Nginx · Ubuntu Server</sub> | Sistema de gestión de residencias profesionales. Desplegado en 4 máquinas virtuales Ubuntu: 2 servidores de aplicación, 1 de base de datos y 1 balanceador de carga con Nginx. Scrum Master y desarrollador full stack. |
+| **[ObraSync](https://github.com/josuetapia-dev/ObraSync)** <br><sub>Laravel · MySQL · SQLite</sub> | App offline-first para cuadrillas de obra: registro de entrada y salida con GPS, bitácora con fotos y reportes diarios. Funciona sin señal y sincroniza con una API Laravel al recuperar la conexión. |
 | **[Prosales](https://github.com/josuetapia-dev/PROSALES)** <br><sub>JavaScript · PWA · Service Worker</sub> | CRM instalable para embudos de ventas que funciona sin conexión mediante Service Worker y Cache API. |
 | **Francofonía** <br><sub>Ionic · MySQL</sub> | App móvil de registro con códigos QR y soporte sin conexión, usada para registrar a ~150 asistentes en un evento universitario. |
-| **Runestone** <br><sub>Unity · C#</sub> | Metroidvania 2D desarrollado en dos semanas por un equipo de 3. 3.er lugar en el Día del Programador de la UTGZ. |
+| **Runestone** <br><sub>Unity · C#</sub> | Metroidvania 2D desarrollado en dos semanas por un equipo de tres personas; obtuvo el 3.er lugar en el Día del Programador de la UTGZ. |
 
 <br>
 
