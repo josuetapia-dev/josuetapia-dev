@@ -71,3 +71,76 @@ sin completar
 sin completar
 💼 Land my first role on the path to Cloud / DevOps Engineer
 <p align="center"><i>Open to internships, collaborations and junior opportunities — feel free to reach out.</i></p>
+<p align="right"><b>🇲🇽 Español</b> · <a href="README.en.md">🇺🇸 English</a></p> <h1 align="center">Hola, soy Josué 👋</h1> <p align="center"> <b>Estudiante de Ingeniería en Software · Backend & Cloud</b><br> Desarrollo sistemas web con <b>Laravel</b> y los despliego en infraestructura <b>Linux</b>: del código a producción. </p> <p align="center"> <a href="https://www.linkedin.com/in/josue-perez-tapia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:josuetapia1112@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a> </p>
+🚀 Actualmente
+🎓 Estudiante de último cuatrimestre de Ingeniería en Desarrollo y Gestión de Software en la UTGZ (Veracruz, México)
+🐳 Aprendiendo Docker para contenerizar mis proyectos
+💼 Buscando mi primer empleo en el camino a Cloud / DevOps Engineer
+Me gusta el recorrido completo de un sistema: diseñar el backend, configurar los servidores y mantenerlo funcionando.
+
+🛠️ Proyectos destacados
+🏛️ SGRP — Sistema de Gestión de Residencias Profesionales
+Sistema web que digitaliza el registro y seguimiento de las residencias profesionales de la universidad.
+
+Desplegado en 4 máquinas virtuales con Ubuntu Server configuradas desde línea de comandos: 2 servidores de aplicación, 1 servidor MySQL y 1 balanceador de carga
+Nginx como servidor web y proxy inverso para exponer el sistema a internet
+Pruebas unitarias con PHPUnit
+Rol: Scrum Master y desarrollador full stack
+           Internet
+              │
+       ┌──────▼───────┐
+       │ Balanceador  │  Nginx
+       └──┬────────┬──┘
+     ┌────▼───┐ ┌──▼─────┐
+     │ App 1  │ │ App 2  │  Laravel + Nginx
+     └────┬───┘ └──┬─────┘
+       ┌──▼────────▼──┐
+       │    MySQL     │
+       └──────────────┘
+Laravel PHP MySQL Nginx Ubuntu Server PHPUnit
+
+📊 Prosales CRM — PWA para embudo de ventas
+Aplicación Web Progresiva instalable para gestionar el embudo de ventas de negocios de servicios: leads, etapas, seguimientos y reportes.
+
+Funciona sin conexión: App Shell, datos y tipografía en caché con Service Worker y Cache API
+Página personalizada de modo sin conexión y detección real de la conexión
+App Shell responsivo con embudo tipo Kanban, seguimientos y reportes
+Desarrollado en 5 etapas incrementales, cada una con su rama y Pull Request
+JavaScript PWA Service Worker Cache API HTML/CSS
+
+📱 Francofonía — App de registro de invitados
+App móvil con soporte sin conexión para registrar asistentes a un evento universitario mediante códigos QR generados por la propia app. Se usó en el evento real para registrar a ~150 invitados.
+
+Ionic MySQL
+
+🎮 Runestone — Metroidvania 2D
+Videojuego desarrollado en dos semanas por un equipo de 3 personas con herramientas asistidas por IA. 🥉 3.er lugar en el concurso del Día del Programador de la UTGZ.
+
+Unity C#
+
+⏸️ EventPass — en pausa
+Idea personal de SaaS para gestión de eventos con control de acceso por QR, basada en lo que aprendí con Francofonía.
+
+Ionic React Firebase TypeScript
+
+🧰 Tecnologías
+<p> <img src="https://skillicons.dev/icons?i=php,laravel,py,js,ts,react,angular,html,css&perline=9" alt="Lenguajes y frameworks"><br> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,linux,ubuntu,nginx,git,github,postman&perline=9" alt="Bases de datos, infraestructura y herramientas"> </p>
+Área	Tecnologías
+Backend	PHP · Laravel · Python (análisis de datos)
+Frontend y móvil	JavaScript · TypeScript · React · Angular · Ionic · HTML/CSS · PWA
+Bases de datos	MySQL · MariaDB · MongoDB · Firebase
+Infraestructura	Linux (Ubuntu Server) · Nginx · Máquinas virtuales · Balanceo de carga
+Herramientas	Git · GitHub · Postman · PHPUnit · Jira
+Aprendiendo	Docker 🐳
+🎯 Metas 2026–2027
+sin completar
+🐳 Contenerizar mis proyectos con Docker
+sin completar
+⚙️ Crear pipelines de CI/CD con GitHub Actions
+sin completar
+☁️ Desplegar un proyecto en Google Cloud
+sin completar
+🗣️ Alcanzar inglés B1
+sin completar
+💼 Conseguir mi primer empleo en el camino a Cloud / DevOps Engineer
+<p align="center"><i>¿Tienes una vacante o un proyecto en mente? Escríbeme, con gusto platicamos.</i></p>
